@@ -15,7 +15,7 @@ Radius 0.5
 Offset 1.3
 
 Storage_X 20
-Storage_Y 20
+Storage_Y 30
 
 Explosion 36
 Should_Close_When_Outside_Range true
